@@ -97,5 +97,3 @@ Bonus Topics (Optional/Time-Permitting)
 •	Redux Toolkit (Basic usage)
 •	Authentication basics (JWT, Firebase Auth)
 
-
-<img width="451" height="691" alt="image" src="https://github.com/user-attachments/assets/6ca5127c-1bb1-4a05-8376-ffd3b9199435" />
